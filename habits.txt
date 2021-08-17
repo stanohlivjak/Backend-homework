@@ -1,3 +1,2 @@
--collaborate
--don't do things alone
--programming is "team sport"
+-get used to be lonely
+-programming is solo activity
