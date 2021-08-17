@@ -1,4 +1,4 @@
--get it done attitude
--keep eye on goal
--be productive
--don't polish little things
+-keep it simple
+-don't over-engineer
+-keep code simple
+-easy to read
