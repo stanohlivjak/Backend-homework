@@ -1,4 +1,2 @@
--keep it simple
--don't over-engineer
--keep code simple
--easy to read
+-get in the "Zone"
+-don't get interrupted
